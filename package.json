@@ -13,6 +13,10 @@
   "engines": {
     "node": "5.6.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bagshik/js-dev-env-api"
+  },
   "author": "Bakhshi Dashyan",
   "license": "MIT"
 }
